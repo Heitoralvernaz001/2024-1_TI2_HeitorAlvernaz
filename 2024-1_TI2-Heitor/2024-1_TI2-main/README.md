@@ -1,4 +1,4 @@
 # 2024-1_TI2
 
-- Aluno : Felipe Vilhena Dias
-- Matricula : 817294
+- Aluno : Heitor_Alvernaz_Leite
+- Matricula : 819271
